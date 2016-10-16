@@ -1,0 +1,24 @@
+{
+    "name": "z-express-initializer",
+    "description": "Z Express Initializer",
+    "version": "0.0.1",
+    "author": {
+        "name": "Giorgi Maisuradze"
+    },
+    "maintainers": [
+        {
+            "name": "and1gio",
+            "email": "g.maisuradze88@gmail.com"
+        },
+        {
+            "name": "levansuper",
+            "email": "l.basharuli@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "express": "4.14.0",
+        "body-parser": "1.15.2",
+        "cookie-parser": "1.4.3"
+    },
+    "main": "z-express-initializer.js"
+}
