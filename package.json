@@ -1,7 +1,7 @@
 {
     "name": "z-express-initializer",
     "description": "Z Express Initializer",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": {
         "name": "Giorgi Maisuradze"
     },
@@ -16,8 +16,8 @@
         }
     ],
     "dependencies": {
-        "express": "4.15.2",
-        "body-parser": "1.17.1",
+        "express": "4.16.0",
+        "body-parser": "1.18.2",
         "cookie-parser": "1.4.3"
     },
     "main": "z-express-initializer.js"
