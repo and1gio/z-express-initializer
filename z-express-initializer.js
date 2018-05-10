@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-    run: function (app, next) {
-        var express = require('express');
-        var cookieParser = require('cookie-parser');
-        var bodyParser = require('body-parser');
+    run: (app, next) => {
+        const express = require('express');
+        const cookieParser = require('cookie-parser');
+        const bodyParser = require('body-parser');
 
         app.express = express();
         app.express.set('port', app.config.zApp.port);
